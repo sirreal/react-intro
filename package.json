@@ -22,6 +22,8 @@
     "url": "git@github.com:sirreal/react-intro.git"
   },
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "start": "grunt serve",
+    "deploy": "grunt deploy"
   }
 }

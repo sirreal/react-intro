@@ -1,1 +1,34 @@
-["index.md"]
+[
+    "index.md",
+    "usage.md",
+    "description.md",
+    "motivacion.md",
+    "motivacion-2.md",
+    "declarativo.md",
+    "declarativo-2.md",
+    "jquery.md",
+    "estado.md",
+    "momento-oportuno.md",
+    [
+        "es6.md",
+        "class.md",
+        "module.md",
+        "fat-arrow.md",
+        "let-const.md",
+        "deestructuracion.md"
+    ],
+    "jsx.md",
+    "function-of-props-to-html.md",
+    "component.md",
+    "create-react-app.md",
+    [
+        "ejemplos.md",
+        "increment.md",
+        "input.md"
+    ],
+    "component-interaction.md",
+    "redux.md",
+    "reducer.md",
+    "action.md",
+    "dispatch.md"
+]
