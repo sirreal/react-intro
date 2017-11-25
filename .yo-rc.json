@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "React",
+    "packageVersion": "0.1.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "sirreal",
+    "githubRepository": "react-intro"
+  }
+}
