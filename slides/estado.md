@@ -2,7 +2,7 @@
 
 Gestion _controlado_ del estado.
 
-```jsx
+```js
 class FormComponent extends React.Component {
   state = { checked: false }
   handleClick = e => this.setState( ( { checked } ) => ( { checked: !checked } ) );
@@ -11,7 +11,12 @@ class FormComponent extends React.Component {
     return (
       <form>
         <label htmlFor="cb">Checkbox</label>
-        <input id="cb" type="checkbox" onClick={ this.handleClick } checked={ this.state.checked } />
+        <input
+          id="cb"
+          type="checkbox"
+          onClick={ this.handleClick }
+          checked={ this.state.checked }
+        />
       </form>
     )
   }

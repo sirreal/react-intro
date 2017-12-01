@@ -1,6 +1,6 @@
 ##  Declarativo
 
-```jsx
+```js
 <div>
   <header>
     <h1>¡Mira mamá!</h1>

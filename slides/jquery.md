@@ -2,7 +2,7 @@
 
 Gestión del estado en el DOM
 
-```html
+```js
 $( '#form' ).on( 'submit', function( e ) {
   e.preventDefault();
   var $el = $( this );

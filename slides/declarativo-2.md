@@ -1,5 +1,3 @@
-##  Declarativo
-
 <div>
   <header>
     <h1>¡Mira mamá!</h1>
